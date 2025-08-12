@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "Newbie-Friendly 的 Vitepress 模板"
-  text: "學生說沒有，但我覺得很友善了 😏"
-  tagline: 我真心覺得很友善了... _(´ཀ`」 ∠)_
+  name: "歡迎來到陳柔榛大美女的介面"
+  text: "早安咖啡"
+  tagline: 我不覺得友善ㄝ...
   actions:
     - theme: brand
       text: Markdown Examples
